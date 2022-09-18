@@ -2,7 +2,7 @@
 
 ![screen](./screen/github-desafio.png)
 
->DESAFIO NLW
+> DESAFIO NLW
 
 Projeto construído do evento Next Level Week da Rocketseat.
 
